@@ -1,0 +1,39 @@
+{
+  "jobs": [
+    {
+      "title": "MERN Stack Developer",
+      "type": "Full Time",
+      "salary": "1000",
+      "detline": "2023-04-01",
+      "id": 15
+    },
+    {
+      "title": "Junior Executive",
+      "type": "Remote",
+      "salary": "900",
+      "detline": "2023-04-15",
+      "id": 18
+    },
+    {
+      "title": "MERN Stack Developer",
+      "type": "Internship",
+      "salary": "8000",
+      "detline": "2023-04-01",
+      "id": 19
+    },
+    {
+      "title": "Full Stack Developer",
+      "type": "Internship",
+      "salary": "6000",
+      "detline": "2023-04-30",
+      "id": 20
+    },
+    {
+      "title": "Frontend Developer",
+      "type": "Internship",
+      "salary": "40000",
+      "detline": "2023-04-30",
+      "id": 21
+    }
+  ]
+}
